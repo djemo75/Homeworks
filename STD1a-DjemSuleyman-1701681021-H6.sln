@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetMax", "GetMax\GetMax.csproj", "{0CAB1E82-A88C-4858-930C-27D5FB715A9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryCalculator", "GeometryCalculator\GeometryCalculator.csproj", "{C4D3380A-2EF2-4A6B-BB1D-6AD8AA94D3CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0CAB1E82-A88C-4858-930C-27D5FB715A9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0CAB1E82-A88C-4858-930C-27D5FB715A9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0CAB1E82-A88C-4858-930C-27D5FB715A9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0CAB1E82-A88C-4858-930C-27D5FB715A9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4D3380A-2EF2-4A6B-BB1D-6AD8AA94D3CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4D3380A-2EF2-4A6B-BB1D-6AD8AA94D3CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4D3380A-2EF2-4A6B-BB1D-6AD8AA94D3CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4D3380A-2EF2-4A6B-BB1D-6AD8AA94D3CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {229C47E0-FE85-4C1B-8EF4-3E3B6693EC27}
+	EndGlobalSection
+EndGlobal
